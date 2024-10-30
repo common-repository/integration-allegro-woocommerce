@@ -1,0 +1,20 @@
+#waint-logs {
+  width: 100%;
+  resize: vertical;
+}
+
+#waint-bindings th {
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.waint-input-woocommerce::-webkit-inner-spin-button,
+.waint-input-woocommerce::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.waint-input-woocommerce {
+  -moz-appearance: textfield;
+}
